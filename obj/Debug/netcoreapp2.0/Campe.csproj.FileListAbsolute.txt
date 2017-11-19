@@ -1,0 +1,10 @@
+D:\Campe\bin\Debug\netcoreapp2.0\Campe.deps.json
+D:\Campe\bin\Debug\netcoreapp2.0\Campe.runtimeconfig.json
+D:\Campe\bin\Debug\netcoreapp2.0\Campe.runtimeconfig.dev.json
+D:\Campe\bin\Debug\netcoreapp2.0\Campe.dll
+D:\Campe\bin\Debug\netcoreapp2.0\Campe.pdb
+D:\Campe\obj\Debug\netcoreapp2.0\Campe.csproj.CoreCompileInputs.cache
+D:\Campe\obj\Debug\netcoreapp2.0\Campe.AssemblyInfoInputs.cache
+D:\Campe\obj\Debug\netcoreapp2.0\Campe.AssemblyInfo.cs
+D:\Campe\obj\Debug\netcoreapp2.0\Campe.dll
+D:\Campe\obj\Debug\netcoreapp2.0\Campe.pdb
